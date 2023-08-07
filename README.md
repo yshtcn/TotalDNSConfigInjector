@@ -1,0 +1,2 @@
+# TotalDNSConfigInjector
+一款DNS查询工具，查询结果可以直接以特定的格式替换文本或者配置文件中的记录
